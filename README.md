@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesFerreira
 - 👀 I’m interested in acquiring new skills in web development 
-- 🌱 I’m currently learning react, solidity, view js ...
+- 🌱 I’m currently learning react, solidity, vue js ...
 - 📫 How to reach me : ferreira.james@outlook.fr
 
 <!---
